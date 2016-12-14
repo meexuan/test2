@@ -4,7 +4,6 @@
 //class funct
 class funct {
 
-
 public $price;
 public $name;
 public $oriprice;
